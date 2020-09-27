@@ -1,0 +1,6 @@
+package com.example.curus_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
